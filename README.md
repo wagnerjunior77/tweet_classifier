@@ -1,2 +1,2 @@
 # tweet_classifier
-An program to classifier the "feeling" of a tweet
+A program to classifier the "feeling" of a tweet
